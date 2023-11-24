@@ -7,8 +7,8 @@
  * Define Constants
  ****************************************/
 #define TOKEN "BBFF-eZ64AEpgeqwLCgQyIHTw31cTcLgR4EcuEJLEmzGnAoz7XvmkKZc6kXC" // Your Ubidots TOKEN
-#define WIFINAME "Formation" //Your SSID
-#define WIFIPASS "protech123" // Your Wifi Pass
+#define WIFINAME "" //Your SSID
+#define WIFIPASS "" // Your Wifi Pass
 
 Ubidots client(TOKEN);
 
